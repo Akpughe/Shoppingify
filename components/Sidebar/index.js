@@ -9,7 +9,7 @@ const SideNav = () => {
   return (
     <nav className="bg-white w-24 h-screen flex flex-col justify-between py-6 rounded-tl-2xl rounded-bl-2xl">
       <div className="flex justify-center">
-          <img src="./s-logo.png" width="50px" alt="" />
+        <img src="./s-logo.png" width="50px" alt="" />
       </div>
 
       <div>
